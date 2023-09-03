@@ -1,0 +1,2 @@
+# birdmodel
+AI crusade hackathon
